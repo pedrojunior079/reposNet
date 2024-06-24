@@ -1,0 +1,10 @@
+C:\GitHub\reposNet\Cap04EstruturaControle\Cap04EstruturaControle\bin\Debug\Cap04EstruturaControle.exe.config
+C:\GitHub\reposNet\Cap04EstruturaControle\Cap04EstruturaControle\bin\Debug\Cap04EstruturaControle.exe
+C:\GitHub\reposNet\Cap04EstruturaControle\Cap04EstruturaControle\bin\Debug\Cap04EstruturaControle.pdb
+C:\GitHub\reposNet\Cap04EstruturaControle\Cap04EstruturaControle\obj\Debug\Cap04EstruturaControle.csproj.AssemblyReference.cache
+C:\GitHub\reposNet\Cap04EstruturaControle\Cap04EstruturaControle\obj\Debug\Cap04EstruturaControle.Form1.resources
+C:\GitHub\reposNet\Cap04EstruturaControle\Cap04EstruturaControle\obj\Debug\Cap04EstruturaControle.Properties.Resources.resources
+C:\GitHub\reposNet\Cap04EstruturaControle\Cap04EstruturaControle\obj\Debug\Cap04EstruturaControle.csproj.GenerateResource.cache
+C:\GitHub\reposNet\Cap04EstruturaControle\Cap04EstruturaControle\obj\Debug\Cap04EstruturaControle.csproj.CoreCompileInputs.cache
+C:\GitHub\reposNet\Cap04EstruturaControle\Cap04EstruturaControle\obj\Debug\Cap04EstruturaControle.exe
+C:\GitHub\reposNet\Cap04EstruturaControle\Cap04EstruturaControle\obj\Debug\Cap04EstruturaControle.pdb
