@@ -1,0 +1,10 @@
+C:\GitHub\reposNet\Cap02OiMundo\Cap02OiMundo\bin\Debug\Cap02OiMundo.exe.config
+C:\GitHub\reposNet\Cap02OiMundo\Cap02OiMundo\bin\Debug\Cap02OiMundo.exe
+C:\GitHub\reposNet\Cap02OiMundo\Cap02OiMundo\bin\Debug\Cap02OiMundo.pdb
+C:\GitHub\reposNet\Cap02OiMundo\Cap02OiMundo\obj\Debug\Cap02OiMundo.csproj.AssemblyReference.cache
+C:\GitHub\reposNet\Cap02OiMundo\Cap02OiMundo\obj\Debug\Cap02OiMundo.Form1.resources
+C:\GitHub\reposNet\Cap02OiMundo\Cap02OiMundo\obj\Debug\Cap02OiMundo.Properties.Resources.resources
+C:\GitHub\reposNet\Cap02OiMundo\Cap02OiMundo\obj\Debug\Cap02OiMundo.csproj.GenerateResource.cache
+C:\GitHub\reposNet\Cap02OiMundo\Cap02OiMundo\obj\Debug\Cap02OiMundo.csproj.CoreCompileInputs.cache
+C:\GitHub\reposNet\Cap02OiMundo\Cap02OiMundo\obj\Debug\Cap02OiMundo.exe
+C:\GitHub\reposNet\Cap02OiMundo\Cap02OiMundo\obj\Debug\Cap02OiMundo.pdb

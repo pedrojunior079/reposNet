@@ -1,0 +1,10 @@
+C:\GitHub\reposNet\Cap03VarTiposPrimitivos\Cap03VarTiposPrimitivos\bin\Debug\Cap03VarTiposPrimitivos.exe.config
+C:\GitHub\reposNet\Cap03VarTiposPrimitivos\Cap03VarTiposPrimitivos\bin\Debug\Cap03VarTiposPrimitivos.exe
+C:\GitHub\reposNet\Cap03VarTiposPrimitivos\Cap03VarTiposPrimitivos\bin\Debug\Cap03VarTiposPrimitivos.pdb
+C:\GitHub\reposNet\Cap03VarTiposPrimitivos\Cap03VarTiposPrimitivos\obj\Debug\Cap03VarTiposPrimitivos.csproj.AssemblyReference.cache
+C:\GitHub\reposNet\Cap03VarTiposPrimitivos\Cap03VarTiposPrimitivos\obj\Debug\Cap03VarTiposPrimitivos.Form1.resources
+C:\GitHub\reposNet\Cap03VarTiposPrimitivos\Cap03VarTiposPrimitivos\obj\Debug\Cap03VarTiposPrimitivos.Properties.Resources.resources
+C:\GitHub\reposNet\Cap03VarTiposPrimitivos\Cap03VarTiposPrimitivos\obj\Debug\Cap03VarTiposPrimitivos.csproj.GenerateResource.cache
+C:\GitHub\reposNet\Cap03VarTiposPrimitivos\Cap03VarTiposPrimitivos\obj\Debug\Cap03VarTiposPrimitivos.csproj.CoreCompileInputs.cache
+C:\GitHub\reposNet\Cap03VarTiposPrimitivos\Cap03VarTiposPrimitivos\obj\Debug\Cap03VarTiposPrimitivos.exe
+C:\GitHub\reposNet\Cap03VarTiposPrimitivos\Cap03VarTiposPrimitivos\obj\Debug\Cap03VarTiposPrimitivos.pdb
