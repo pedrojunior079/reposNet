@@ -1,0 +1,10 @@
+C:\GitHub\reposNet\Cap06ClassesObjetos\Cap06ClassesObjetos\bin\Debug\Cap06ClassesObjetos.exe.config
+C:\GitHub\reposNet\Cap06ClassesObjetos\Cap06ClassesObjetos\bin\Debug\Cap06ClassesObjetos.exe
+C:\GitHub\reposNet\Cap06ClassesObjetos\Cap06ClassesObjetos\bin\Debug\Cap06ClassesObjetos.pdb
+C:\GitHub\reposNet\Cap06ClassesObjetos\Cap06ClassesObjetos\obj\Debug\Cap06ClassesObjetos.csproj.AssemblyReference.cache
+C:\GitHub\reposNet\Cap06ClassesObjetos\Cap06ClassesObjetos\obj\Debug\Cap06ClassesObjetos.Form1.resources
+C:\GitHub\reposNet\Cap06ClassesObjetos\Cap06ClassesObjetos\obj\Debug\Cap06ClassesObjetos.Properties.Resources.resources
+C:\GitHub\reposNet\Cap06ClassesObjetos\Cap06ClassesObjetos\obj\Debug\Cap06ClassesObjetos.csproj.GenerateResource.cache
+C:\GitHub\reposNet\Cap06ClassesObjetos\Cap06ClassesObjetos\obj\Debug\Cap06ClassesObjetos.csproj.CoreCompileInputs.cache
+C:\GitHub\reposNet\Cap06ClassesObjetos\Cap06ClassesObjetos\obj\Debug\Cap06ClassesObjetos.exe
+C:\GitHub\reposNet\Cap06ClassesObjetos\Cap06ClassesObjetos\obj\Debug\Cap06ClassesObjetos.pdb
