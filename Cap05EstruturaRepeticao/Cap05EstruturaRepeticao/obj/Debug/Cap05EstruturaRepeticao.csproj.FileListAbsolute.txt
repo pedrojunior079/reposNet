@@ -1,0 +1,10 @@
+C:\GitHub\reposNet\Cap05EstruturaRepeticao\Cap05EstruturaRepeticao\bin\Debug\Cap05EstruturaRepeticao.exe.config
+C:\GitHub\reposNet\Cap05EstruturaRepeticao\Cap05EstruturaRepeticao\bin\Debug\Cap05EstruturaRepeticao.exe
+C:\GitHub\reposNet\Cap05EstruturaRepeticao\Cap05EstruturaRepeticao\bin\Debug\Cap05EstruturaRepeticao.pdb
+C:\GitHub\reposNet\Cap05EstruturaRepeticao\Cap05EstruturaRepeticao\obj\Debug\Cap05EstruturaRepeticao.csproj.AssemblyReference.cache
+C:\GitHub\reposNet\Cap05EstruturaRepeticao\Cap05EstruturaRepeticao\obj\Debug\Cap05EstruturaRepeticao.Form1.resources
+C:\GitHub\reposNet\Cap05EstruturaRepeticao\Cap05EstruturaRepeticao\obj\Debug\Cap05EstruturaRepeticao.Properties.Resources.resources
+C:\GitHub\reposNet\Cap05EstruturaRepeticao\Cap05EstruturaRepeticao\obj\Debug\Cap05EstruturaRepeticao.csproj.GenerateResource.cache
+C:\GitHub\reposNet\Cap05EstruturaRepeticao\Cap05EstruturaRepeticao\obj\Debug\Cap05EstruturaRepeticao.csproj.CoreCompileInputs.cache
+C:\GitHub\reposNet\Cap05EstruturaRepeticao\Cap05EstruturaRepeticao\obj\Debug\Cap05EstruturaRepeticao.exe
+C:\GitHub\reposNet\Cap05EstruturaRepeticao\Cap05EstruturaRepeticao\obj\Debug\Cap05EstruturaRepeticao.pdb
